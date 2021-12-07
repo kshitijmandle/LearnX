@@ -5,6 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".App_Activities.HomePage">
-    <include layout="@layout/tool_bar"/>
+    <include layout="@layout/home_toolbar"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
